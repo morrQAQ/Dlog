@@ -1,0 +1,6 @@
+{
+  "name": "com.chuan.dlog",
+  "version": "1.0.0",
+  "displayName": "Dlog",
+  "description": "Per-component debug log switch for Unity. Use with LogEx (DLog, DLogWarning, DLogError) and optional Inspector toggle."
+}
